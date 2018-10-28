@@ -26,4 +26,4 @@ Computer Science Department at Leipzig University.
 * Tutor: Sebastian Zänker, Informatik 
 * Students: Alrik Hausdorf, Johann Berger, Kaya Peters, Mikolaj Szafranski
 
-Contribution: Fotografien der MINT-Orte im damaligen Umfang.
+Contribution: Bilder/MINT-15, Logos/MINT-15
